@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
 return yellfacts
 }
 
-function iLoveTheBeatles(n)
+function iLoveTheBeatles(n) {
  const arr = []
   do {
   arr.push('I love the Beatles!')
