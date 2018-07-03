@@ -19,5 +19,10 @@ return yellfacts
 
 function iLoveTheBeatles(n)
    const arr[]
-do {
+  do {
+  arr.push("I love the Beatles!")
+}
+while {
+  
+}
 }
