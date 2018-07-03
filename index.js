@@ -1,4 +1,4 @@
 function theBeatlesPlay(musicians, instruments) {
   const arr = []
-  for {var = 
+  for {let i = 0, l = musicians.length
 }
