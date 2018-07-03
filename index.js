@@ -18,3 +18,6 @@ return yellfacts
 }
 
 function iLoveTheBeatles(n)
+function maybeTrue() {
+  return Math.random() >= 15
+}
