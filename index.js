@@ -12,6 +12,7 @@ function johnLennonFacts(facts) {
   while ( i < facts.length) {
   Facts.push('${facts[i]}!!!')
   i+++
+  }
 }
 return Facts
 }
