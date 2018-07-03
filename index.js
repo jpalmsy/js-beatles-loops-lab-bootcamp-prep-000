@@ -6,6 +6,7 @@ function theBeatlesPlay(musicians, instruments) {
   return arr
 }
 
-function johnLennonFacts(facts)
+function johnLennonFacts(facts) {
   const facts = []
-  for
+  function maybeTrue() {
+  return Math.random() >= 0.5
