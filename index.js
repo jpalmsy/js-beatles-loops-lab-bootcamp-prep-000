@@ -22,7 +22,8 @@ function iLoveTheBeatles(n)
   do {
   arr.push("I love the Beatles!")
 }
-while 
+while (arr.length > 15 && maybeTrue());
+}
   
 }
 }
